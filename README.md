@@ -3,7 +3,8 @@
 JackProxy 是一个企业级高性能代理池管理平台，提供智能代理切换、自动维护和严格的Token授权管理功能。作为网络工程师、安全研究人员和数据科学家的得力助手，JackProxy为各类网络环境提供稳定高效的代理服务。
 
 <div align="center">
-  <img src="./images/logo.png" alt="JackProxy Logo" width="200"/>
+  <img src="![Area-2](https://github.com/user-attachments/assets/4c2c4bc1-ab4a-4282-95cb-e47d8cdc778d)
+" alt="JackProxy Logo" width="200"/>
   <br/>
   <i>高性能 • 高可用 • 易扩展</i>
 </div>
@@ -53,7 +54,7 @@ JackProxy特别适用于以下专业场景：
    
    内测用户可获取适用于Windows、macOS和Linux的预编译二进制文件。
    
-   - **从GitHub下载**: 访问项目 [Releases](https://github.com/jackhou/jackproxy/releases) 页面获取最新版本
+   - **从GitHub下载**: 访问项目 [Releases]([https://github.com/jackhou/jackproxy](https://github.com/YingxueSec/JackProxy-Pro/releases) 页面获取最新版本
    - **支持平台**: 
      - Windows (64位)
      - macOS (Intel/AMD64 & Apple Silicon/ARM64)
