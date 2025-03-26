@@ -3,7 +3,8 @@
 JackProxy 是一个企业级高性能代理池管理平台，提供智能代理切换、自动维护和严格的Token授权管理功能。作为网络工程师、安全研究人员和数据科学家的得力助手，JackProxy为各类网络环境提供稳定高效的代理服务。
 
 <div align="center">
-  <img src="![Area-2](https://github.com/user-attachments/assets/4c2c4bc1-ab4a-4282-95cb-e47d8cdc778d)
+  <img src="![Area-2](https://github.com/user-attachments/assets/4aed0f4a-9116-4065-9577-e21f254f4ded)
+
 " alt="JackProxy Logo" width="200"/>
   <br/>
   <i>高性能 • 高可用 • 易扩展</i>
