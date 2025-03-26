@@ -62,7 +62,7 @@ JackProxy特别适用于以下专业场景：
 4. **启动服务**
 
    ```bash
-   ./jackproxy-client -token "your-token-here"
+   ./jackproxy-pro -token "your-token-here"
    ```
 
    启动成功后，系统将显示详细的状态信息，包括Token验证状态、代理池统计和服务监听地址。
@@ -73,13 +73,13 @@ JackProxy特别适用于以下专业场景：
 
 1. **命令行参数**（推荐用于测试）：
    ```bash
-   ./jackproxy-client -token "your-token-here"
+   ./jackproxy-pro -token "your-token-here"
    ```
 
 2. **独立文件**（适合敏感环境）：
    创建`token.txt`文件并写入Token：
    ```bash
-   echo "your-token-here" > token.txt
+   4d15ff34030788888888888970ab282
    ```
 
 系统按以下优先级读取Token：命令行参数 > token.txt文件。
